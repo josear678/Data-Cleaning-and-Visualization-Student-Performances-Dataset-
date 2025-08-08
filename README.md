@@ -1,7 +1,7 @@
 # Data Cleaning and Visualization of the Student Performances Dataset
 
 ## Overview of Project
-This project focuses on cleaning up the data of the Student Performances data set so that it can be used for Machine Learning as well as visualizing the important columns of the data via different graphs
+This project focuses on cleaning up the data of the **Student Performances** data set so that it can be used for Machine Learning as well as visualizing the important columns of the data via different graphs
 
 ## Dataset Source
 - Source: UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/)
