@@ -36,7 +36,8 @@ This project focuses on cleaning up the data of the **Student Performances** dat
  - Regression plots:
 <img width="640" height="480" alt="SP_Regression_G1_vs_G2" src="https://github.com/user-attachments/assets/ae23435a-38b8-4270-8e7f-4162f395bf5b" />
 <img width="640" height="480" alt="SP_Regression_G2_vs_G3" src="https://github.com/user-attachments/assets/a7f94705-96a2-4ca2-9442-321ba612608a" />
-<img width="640" height="480" alt="SP_Regression_G1_vs_G3" src="https://github.com/user-attachments/assets/be2c2d39-5aae-4ddf-abf9-9d58a17377f6" />
+<img width="640" height="480" alt="SP_Regression_G1_vs_G2 (1)" src="https://github.com/user-attachments/assets/a6679128-98ac-471f-973a-75b53261f4ce" />
+
 
 ## Language and Libraries:
  - Language: Python
